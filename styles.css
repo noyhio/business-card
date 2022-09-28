@@ -1,0 +1,20 @@
+body {
+    margin: 20px;
+    font-family: Trebuchet
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #FAC8CD;
+    color: #2b2839;
+    border-bottom: 6px solid #384E77;
+}
